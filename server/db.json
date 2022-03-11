@@ -1,0 +1,47 @@
+{
+  "logs": [
+    {
+      "id": 2,
+      "message": "workstation 007 not posting",
+      "tech": "Mehdi Ahmadi",
+      "attention": true,
+      "date": "2022-03-11T17:52:21.444Z"
+    },
+    {
+      "id": 3,
+      "message": "Changer memory on workstation 050",
+      "attention": false,
+      "date": "03-07-2019",
+      "tech": "Ali Mohammadi"
+    },
+    {
+      "id": 4,
+      "message": "changes in server 003",
+      "tech": "Sara Bageri",
+      "attention": true,
+      "date": "2022-03-11T16:36:59.493Z"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstname": "Sara",
+      "lastname": "Bagheri"
+    },
+    {
+      "id": 2,
+      "firstname": "Mehdi",
+      "lastname": "Ahmadi"
+    },
+    {
+      "id": 3,
+      "firstname": "Ali",
+      "lastname": "Mohammadi"
+    },
+    {
+      "firstname": "Maryam",
+      "lastname": "Najafi",
+      "id": 4
+    }
+  ]
+}
